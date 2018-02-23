@@ -16,4 +16,4 @@ In this folder I will put all my scripts to deals with windows event logs.
  * Microsoft-Windows-RemoteDesktopServices-RdpCoreTS/Operational
 
 ### How to use:
- >_ .\CheckRDP.ps1 input-evtx-file [output-csv-file]
+ >_ .\CheckRDP.ps1 <evtx-file-path> [<output-csv-file>]
